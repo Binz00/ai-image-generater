@@ -1,0 +1,7 @@
+streamlit==1.24.0
+diffusers==0.19.3
+transformers==4.30.2
+accelerate==0.20.3
+torch==2.0.1
+matplotlib==3.7.1
+Pillow==9.5.0
